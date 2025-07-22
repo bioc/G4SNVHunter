@@ -48,7 +48,7 @@
 #' @import GenomicRanges
 #' @import IRanges
 #' @import progress
-#' @importFrom GenomeInfoDb seqlevels
+#' @importFrom Seqinfo seqlevels
 #' @export
 #'
 #' @examples

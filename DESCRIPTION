@@ -1,7 +1,7 @@
 Package: G4SNVHunter
 Type: Package
 Title: Evaluating SNV-Induced Disruption of G-Quadruplex Structures
-Version: 1.1.4
+Version: 1.1.5
 Authors@R: person(given = "Rongxin", 
                   family = "Zhang", 
                   email = "rongxinzhang@outlook.com", 
@@ -29,7 +29,7 @@ Imports:
     Rcpp,
     RcppRoll,
     data.table,
-    GenomeInfoDb,
+    Seqinfo,
     S4Vectors,
     ggplot2,
     cowplot,
